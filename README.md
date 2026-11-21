@@ -1,6 +1,6 @@
 # YouTube Playlist Ajanı
 
-macOS’ta YouTube oynatma listelerini seçtiğin çözünürlükte veya MP3 olarak indiren bir Terminal aracı.
+macOS’ta YouTube oynatma listelerini seçtiğin çözünürlükte MP4 video veya MP3 olarak indiren bir Terminal aracı.
 
 ## Çalıştırma
 
